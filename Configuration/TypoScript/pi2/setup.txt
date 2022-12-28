@@ -1,0 +1,16 @@
+
+
+plugin.tx_civiladmin_pi2 {
+	CMD =
+	pidList =
+	recursive =
+}
+plugin.tx_civiladmin_pi2.listView {
+	results_at_a_time =
+	maxPages =
+}
+
+page.includeJSFooter.tx_civiladmin_pi2 = EXT:civiladmin/Resources/Public/JavaScript/civiladmin_pi2.js
+
+tt_content.shortcut.20.0.conf.tx_civiladmin_contact = < plugin.civiladmin_pi2
+tt_content.shortcut.20.0.conf.tx_civiladmin_contact.CMD = singleView

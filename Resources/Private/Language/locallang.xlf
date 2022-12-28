@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en"  datatype="plaintext" original="messages"  product-name="civiladmin">
+        <header/>
+        <body>
+            <trans-unit id="pi1_title">
+                <source>Dienstleistungen</source>
+            </trans-unit>
+            <trans-unit id="pi1_plus_wiz_description">
+                <source>Dienstleistungen</source>
+            </trans-unit>
+            <trans-unit id="flexform.general_section">
+                <source>Allgemein</source>
+            </trans-unit>
+            <trans-unit id="flexform.template_section">
+                <source>Template</source>
+            </trans-unit>
+            <trans-unit id="flexform.single_view">
+                <source>Detail page id</source>
+            </trans-unit>
+            <trans-unit id="flexform.back_page">
+                <source>Back to page</source>
+            </trans-unit>
+            <trans-unit id="flexform.viewType">
+                <source>Deisplay mode</source>
+            </trans-unit>
+            <trans-unit id="flexform.viewType.1">
+                <source>List view</source>
+            </trans-unit>
+            <trans-unit id="flexform.viewType.2">
+                <source>Detail view</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

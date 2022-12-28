@@ -1,0 +1,22 @@
+plugin.tx_civiladmin_pi1 {
+	CMD =
+	pidList =
+	recursive =
+}
+
+plugin.tx_civiladmin_pi1.listView {
+	results_at_a_time =
+	maxPages =
+}
+
+tt_content.shortcut.20.0.conf.tx_civiladmin_dienstleistung = < plugin.civiladmin_pi1
+tt_content.shortcut.20.0.conf.tx_civiladmin_dienstleistung.CMD = singleView
+
+plugin.tx_civiladmin_pi1._LOCAL_LANG.de {
+	pi_list_browseresults_prev = Vorherige
+	pi_list_browseresults_page =
+	pi_list_browseresults_next = Nächste
+	pi_list_browseresults_displays = 
+	pi_list_searchBox_search = Suchen
+	pi_list_searchBox_remove = Suchwort entfernen
+}

@@ -1,0 +1,33 @@
+
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" target-language="de" datatype="plaintext" original="messages"  product-name="civiladmin">
+        <header/>
+        <body>
+            <trans-unit id="tt_content.list_type_pi1">
+                <source>CivilAdmin - Administrative services</source>
+                <target>CivilAdmin - Administrative services</target>
+            </trans-unit>
+            <trans-unit id="tt_content.list_type_pi2">
+                <source>CivilAdmin - Dienstleistungen</source>
+                <target>CivilAdmin - Verwaltungseinheiten</target>
+            </trans-unit>
+            <trans-unit id="tabs.contact_data">
+                <source>Contact data</source>
+                <target>Kontaktdaten</target>
+            </trans-unit>
+            <trans-unit id="tabs.structure">
+                <source>Structure</source>
+                <target>Struktur</target>
+            </trans-unit>
+            <trans-unit id="tabs.relationships">
+                <source>Relationships</source>
+                <target>Beziehungen</target>
+            </trans-unit>
+            <trans-unit id="tabs.languages">
+                <source>Languages</source>
+                <source>Sprache</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

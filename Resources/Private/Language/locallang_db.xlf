@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages"  product-name="civiladmin">
+        <header/>
+        <body>
+            <trans-unit id="tx_civiladmin_dienstleistung">
+                <source>Civil Service</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_dienstleistung.title">
+                <source>Name</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_dienstleistung.slug">
+                <source>Speaking URL path segment</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_dienstleistung.synonyms">
+                <source>Synonyms</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_dienstleistung.keywords">
+                <source>Keywords</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_dienstleistung.description">
+                <source>Description</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_dienstleistung.documents">
+                <source>Documents</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_dienstleistung.costs">
+                <source>Costs</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_dienstleistung.laws">
+                <source>Laws</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_dienstleistung.forms">
+                <source>Formulars</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_dienstleistung.unit">
+                <source>Unit</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_dienstleistung.contacts">
+                <source>Contacts</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_dienstleistung.synonym_service">
+                <source>Synonym von Dienstleistung</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contact">
+                <source>Administration unit</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contact.name">
+                <source>Name</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contact.slug">
+                <source>Speaking URL path segment</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contact.address">
+                <source>Address</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contact.phone">
+                <source>Phone</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contact.fax">
+                <source>Fax</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contact.email">
+                <source>Email</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contact.boss">
+                <source>Boss</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contact.contacts">
+                <source>Contacts</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contact.oeffnungszeiten">
+                <source>business hours</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contact.parent">
+                <source>Parent unit</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contacts">
+                <source>Contacts</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contacts.name">
+                <source>Name</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contact.synonyms">
+                <source>Synonyms</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contacts.prenom">
+                <source>Vorname</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contacts.phone">
+                <source>Phone</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contacts.fax">
+                <source>Fax</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contacts.email">
+                <source>Email</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_contacts.shorttext">
+                <source>Short text</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_addresses">
+                <source>Addresses</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_addresses.name">
+                <source>Name</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_addresses.street">
+                <source>Street</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_addresses.housenr">
+                <source>House no</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_addresses.room">
+                <source>Room</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_addresses.zip">
+                <source>ZIP</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_addresses.city">
+                <source>City</source>
+            </trans-unit>
+            <trans-unit id="tx_civiladmin_addresses.busstation">
+                <source>Bus station</source>
+            </trans-unit>
+            <trans-unit id="tt_content.list_type_pi1">
+                <source>CivilAdmin - Administrative services</source>
+            </trans-unit>
+            <trans-unit id="tt_content.list_type_pi2">
+                <source>CivilAdmin - Service units</source>
+            </trans-unit>
+            <trans-unit id="tabs.contact_data">
+                <source>Contact data</source>
+            </trans-unit>
+            <trans-unit id="tabs.structure">
+                <source>Structure</source>
+            </trans-unit>
+            <trans-unit id="tabs.relationships">
+                <source>Relationships</source>
+            </trans-unit>
+            <trans-unit id="tabs.languages">
+                <source>Languages</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

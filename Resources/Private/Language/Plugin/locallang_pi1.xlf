@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" date="2011-10-17T20:22:32Z" product-name="civiladmin">
+        <header/>
+        <body>
+            <trans-unit id="back_to_list">
+                <source>Back to list</source>
+            </trans-unit>
+            <trans-unit id="remove_term">
+                <source>Remove term</source>
+            </trans-unit>
+            <trans-unit id="search">
+                <source>Search</source>
+            </trans-unit>
+            <trans-unit id="search_placeholder">
+                <source>Enter search term here</source>
+            </trans-unit>
+            <trans-unit id="description">
+                <source>Description</source>
+            </trans-unit>
+            <trans-unit id="costs">
+                <source>Costs</source>
+            </trans-unit>
+            <trans-unit id="documents">
+                <source>Documents</source>
+            </trans-unit>
+            <trans-unit id="laws">
+                <source>Laws</source>
+            </trans-unit>
+            <trans-unit id="forms">
+                <source>Forms</source>
+            </trans-unit>
+            <trans-unit id="contacts">
+                <source>Contacts</source>
+            </trans-unit>
+            <trans-unit id="administrative_unit">
+                <source>Administrative unit</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
